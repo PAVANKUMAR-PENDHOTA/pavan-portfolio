@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/PAVANKUMAR-PENDHOTA/my-portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/PAVANKUMAR-PENDHOTA/my-portfolio/static/js/main.30760404.js",
+    "static/media/01.png": "/PAVANKUMAR-PENDHOTA/my-portfolio/static/media/01.548033467e534aa732f5.png",
+    "static/media/photo.jpg": "/PAVANKUMAR-PENDHOTA/my-portfolio/static/media/photo.ed31712e9fe397c9b3e9.jpg",
+    "static/media/pass_photo.jpg": "/PAVANKUMAR-PENDHOTA/my-portfolio/static/media/pass_photo.b0e7902544a8ccbe366d.jpg",
+    "static/media/03.jpg": "/PAVANKUMAR-PENDHOTA/my-portfolio/static/media/03.595a2d3952daebd322fe.jpg",
+    "static/media/02.jpg": "/PAVANKUMAR-PENDHOTA/my-portfolio/static/media/02.2e222b681177a75fdee2.jpg",
+    "index.html": "/PAVANKUMAR-PENDHOTA/my-portfolio/index.html",
+    "main.e6c13ad2.css.map": "/PAVANKUMAR-PENDHOTA/my-portfolio/static/css/main.e6c13ad2.css.map",
+    "main.30760404.js.map": "/PAVANKUMAR-PENDHOTA/my-portfolio/static/js/main.30760404.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.30760404.js"
+  ]
+}
