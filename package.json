@@ -2,6 +2,17 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/PAVANKUMAR-PENDHOTA/my-portfolio",
+  "description": "A personal portfolio website to showcase my projects and skills.",
+  "keywords": [
+    "portfolio",
+    "react",
+    "web development",
+    "projects",
+    "skills",
+    "personal website",
+    "pavankumar pendhota"
+  ],
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
@@ -14,7 +25,7 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.6.2",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -40,5 +51,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
