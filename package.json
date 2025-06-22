@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://PAVANKUMAR-PENDHOTA.github.io/my-portfolio",
+  "homepage": "https://PAVANKUMAR-PENDHOTA.github.io/pavan-portfolio",
   "description": "A personal portfolio website to showcase my projects and skills.",
   "keywords": [
     "portfolio",
@@ -10,8 +10,15 @@
     "web development",
     "projects",
     "skills",
-    "personal website",
-    "pavankumar pendhota"
+    "website",
+    "pavankumar",
+    "pendhota",
+    "developer",
+    "frontend",
+    "reactjs",
+    "web design",
+    "web portfolio",
+    "personal website"
   ],
   "dependencies": {
     "@emotion/react": "^11.14.0",
