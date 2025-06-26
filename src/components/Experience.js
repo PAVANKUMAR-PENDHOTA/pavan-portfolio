@@ -24,7 +24,7 @@ const experienceTimeline = [
   },
   {
     type: 'learning',
-    role: 'Full Stack Developer',
+    role: 'Full Stack Developer - Internship & MERN Stack Course',
     company: 'STPI & Code Academy',
     duration: '2021 - 2022',
     description: 'I started my career with a Full Stack Developer internship at STPI Kakatiya IT Park, working with PHP. To advance my skills, I later completed a MERN Stack course at VisualPath Code Academy, where I gained practical experience in modern web technologies.',
