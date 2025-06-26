@@ -26,6 +26,10 @@ const skillsList = [
   'Premiere Pro',
   'Social Engineering',
   'Ethical Hacking',
+  'kali Linux',
+  'Web Security',
+  'Penetration Testing',
+  'Ubuntu operating system',
 ];
 
 function Skills() {

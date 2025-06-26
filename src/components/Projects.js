@@ -64,14 +64,20 @@ const ProjectsSection = () => {
             fontWeight: 700,
             fontSize: { xs: '2rem', md: '3rem' },
             color: '#111',
-            mb: 6,
+            mb: 2,
             textAlign: 'center',
             fontFamily: 'poppins, sans-serif',
           }}
         >
           My <span style={{ color: '#3b82f6' }}>Projects</span>
         </Typography>
-
+        <Typography
+          variant="body1"
+          sx={{ color: '#6b7280', fontSize: '1.125rem', mb: 3, textAlign: 'center', justifyContent: 'center' }}
+        >
+          Here are some of the projects I have worked on, showcasing my skills in web development and design.
+          Feel free to explore them!
+        </Typography>
         <Grid container spacing={4} sx={{ width: '100%', alignContent: 'center', display: 'flex', justifyContent: 'center' }}>
           {projectsData.map(({ title, description, visit, image }, index) => (
             <Grid key={index} item xs={12} sm={6} md={4}>
